@@ -1,0 +1,8 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on Twitter</name>
+            <url>phttp://twitter.com/justat3chguy</url>
+        </link>
+    </footerlinks>
+</repo>
